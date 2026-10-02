@@ -8,13 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "mongoose": "^8.24.4",
     "next": "16.3.8",
     "react": "19.2.8",
     "react-dom": "19.2.8"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "babel-plugin-react-compiler": "1.0.0",
     "tailwindcss": "^4"
   }
 }
