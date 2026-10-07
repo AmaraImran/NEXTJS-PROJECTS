@@ -14,10 +14,11 @@ export default function Hero() {
           Quiet Places to Wander
         </h1>
         <p className="text-[#F7F4EF]/90 max-w-md mx-auto mb-6">
-          Cozy cabins, misty coastlines, and cafes made for sitting alone with your thoughts.
+          Cozy cabins, misty coastlines, and cafes made for sitting alone with
+          your thoughts.
         </p>
         <div className="flex gap-3 justify-center">
-          <button className="bg-[#81C784] text-[#F7F4EF] px-5 py-2 rounded-full text-sm">
+          <button className="bg-[#78909C] text-[#F7F4EF] px-5 py-2 rounded-full text-sm">
             Explore Places
           </button>
           <button className="bg-transparent text-[#F7F4EF] border border-[#F7F4EF] px-5 py-2 rounded-full text-sm">
