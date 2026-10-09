@@ -1,7 +1,7 @@
-import Navbar from "@/src/app/components/Navbar";
-import SectionHeader from "@/src/app/components/SectionHeader";
-import DestinationCard from "@/src/app/components/DestinationCard";
-import Footer from "@/src/app/components/Footer";
+import Navbar from "@/components/Navbar";
+import SectionHeader from "@/components/SectionHeader";
+import DestinationCard from "@/components/DestinationCard";
+import Footer from "@/components/Footer";
 import { destinations } from "@/data/destinations";
 
 export default function ExplorePage() {

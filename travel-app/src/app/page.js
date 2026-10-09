@@ -1,12 +1,12 @@
-import Navbar from "@/src/app/components/Navbar";
-import Hero from "@/src/app/components//Hero";
-import SectionHeader from "@/src/app/components/SectionHeader";
-import DestinationSlider from "@/src/app/components/DestinationSlider";
-import SplitBanner from "./components/SplitBanner";
-import GuideSlider from "./components/GuideSlider";
-import Spotlight from "./components/Spotlight";
-import Footer from "./components/Footer";
-import Newsletter from "./components/Newsletter";
+import Navbar from "@/components/Navbar";
+import Hero from "@/components/Hero";
+import SectionHeader from "@/components/SectionHeader";
+import DestinationSlider from "@/components/DestinationSlider";
+import SplitBanner from "../../components/SplitBanner";
+import GuideSlider from "../../components/GuideSlider";
+import Spotlight from "../../components/Spotlight";
+import Footer from "@/components/Footer";
+import Newsletter from "@/components/Newsletter";
 import {destinations} from "@/data/destinations";
 
 
