@@ -10,9 +10,9 @@ export default function Navbar({ dark = false }) {
         <Link href="/explore">Explore</Link>
         <Link href="/journal">Journal</Link>
       </div>
-      <button className="bg-[#6B5E51] text-[#F7F4EF] px-4 py-2 rounded-full text-sm">
-        Sign in
-      </button>
+      <Link href="/login" className="bg-[#6B5E51] text-[#F7F4EF] px-4 py-2 rounded-full text-sm">
+  Sign in
+</Link>
     </nav>
   );
 }
