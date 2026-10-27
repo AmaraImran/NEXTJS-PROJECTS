@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { notFound } from "next/navigation"; 
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { posts } from "@/data/journal";
